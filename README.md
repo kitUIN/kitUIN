@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">您好👋</h1>
+### 一只摸鱼的咸鱼，偶尔写写代码~咕咕咕
+### 目前正在准备高考
+### 有事情请[发邮件](mailto:kulujun@gmail.com) 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact" alt="經常史的語言" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn" alt="統計資料" /></p>
