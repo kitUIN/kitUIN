@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">您好👋</h1>
 <h2 align="center">一只摸鱼的鸽子，偶尔写写代码~咕咕咕</h2>
-<h2 align="center">目前正在准备高考</h2>
 <h3 align="center">有事情请发邮件</h3>
 
 
