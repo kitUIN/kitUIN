@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%203%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,5 +99,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 20/03/2022 01:50:28 UTC*
+ *Updated on 20/03/2022 12:48:01 UTC*
 <!--END_SECTION:waka-->
