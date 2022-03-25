@@ -5,9 +5,9 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: kituin.tk_vmess_ws, server: kituin.tk, port: 443, type: vmess, uuid: 9f1e3adf-9902-c167-c41c-e5d8fe267e49, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /scjjvws, ws-headers: {Host: kituin.tk}, udp: true}
-  - {name: kituin.tk_Trojan, server: kituin.tk, port: 443, type: trojan, password: 9f1e3adf-9902-c167-c41c-e5d8fe267e49, sni: kituin.tk, skip-cert-verify: true, udp: true}
-  - {name: kituin.tk_Trojan_gRPC, server: kituin.tk, port: 443, type: trojan, password: 9f1e3adf-9902-c167-c41c-e5d8fe267e49, sni: kituin.tk, skip-cert-verify: true, udp: true}
+  - {name: kituin.tk_vmess_ws, server: kituin.tk, port: 443, type: vmess, uuid: 59d04dd1-8b07-9635-9405-a70061aa5c54, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /wtjbvws, ws-headers: {Host: kituin.tk}, udp: true}
+  - {name: kituin.tk_Trojan, server: kituin.tk, port: 443, type: trojan, password: 59d04dd1-8b07-9635-9405-a70061aa5c54, sni: kituin.tk, skip-cert-verify: true, udp: true}
+  - {name: kituin.tk_Trojan_gRPC, server: kituin.tk, port: 443, type: trojan, password: 59d04dd1-8b07-9635-9405-a70061aa5c54, sni: kituin.tk, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
