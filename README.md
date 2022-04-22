@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 🏆 133 Contributions in the year 2022
  > 
-> 📦 62.7 kB Used in GitHub's storage 
+> 📦 62.3 kB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +99,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 22/04/2022 02:33:34 UTC*
+ *Updated on 22/04/2022 13:00:24 UTC*
 <!--END_SECTION:waka-->
