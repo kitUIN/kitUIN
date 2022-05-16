@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">一只摸鱼的鸽子，偶尔写写代码~咕咕咕</h2>
 <h3 align="center">有事情请发邮件</h3>
 
-
+[![counter](https://count.getloli.com/get/@KitUIN?theme=rule34)](https://count.getloli.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact" alt="經常史的語言" /></p>
 
