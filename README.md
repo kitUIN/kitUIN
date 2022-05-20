@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![counter](https://count.getloli.com/get/@KitUIN?theme=rule34)](https://count.getloli.com/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact" alt="經常史的語言" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn" alt="統計資料" /></p>
 
