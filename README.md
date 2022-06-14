@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 🏆 308 Contributions in the year 2022
  > 
-> 📦 77.9 kB Used in GitHub's storage 
+> 📦 78.0 kB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 14/06/2022 02:41:46 UTC*
+ *Updated on 14/06/2022 13:00:15 UTC*
 <!--END_SECTION:waka-->
