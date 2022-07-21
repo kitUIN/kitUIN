@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 🏆 344 Contributions in the year 2022
  > 
-> 📦 77.9 kB Used in GitHub's storage 
+> 📦 77.4 kB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,13 +69,12 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming languages: 
-Markdown                 3 mins              ███████████████░░░░░░░░░░   59.87% 
-Python                   2 mins              ██████████░░░░░░░░░░░░░░░   40.13% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+C++                      52 mins             ██████████████████░░░░░░░   73.02% 
+XAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
 
 📝 Editors: 
-PyCharm                  6 mins              █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Visual Studio            1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
@@ -96,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 21/07/2022 02:44:45 UTC*
+ *Updated on 21/07/2022 13:04:00 UTC*
 <!--END_SECTION:waka-->
