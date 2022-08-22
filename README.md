@@ -69,12 +69,10 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming languages: 
-XAML                     27 mins             ███████████████████░░░░░░   77.91% 
-C++                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
+No activity tracked this week
 
 📝 Editors: 
-Visual Studio            35 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 ```
 
@@ -95,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 21/08/2022 12:54:25 UTC*
+ *Updated on 22/08/2022 02:46:32 UTC*
 <!--END_SECTION:waka-->
