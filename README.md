@@ -69,13 +69,10 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming languages: 
-Python                   3 mins              ████████████████░░░░░░░░░   64.03% 
-Other                    1 min               ███████░░░░░░░░░░░░░░░░░░   30.79% 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.18%
+No activity tracked this week
 
 📝 Editors: 
-PyCharm                  3 mins              █████████████████░░░░░░░░   69.21% 
-VS Code                  1 min               ███████░░░░░░░░░░░░░░░░░░   30.79%
+No activity tracked this week
 
 ```
 
@@ -96,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 26/09/2022 13:14:26 UTC*
+ *Updated on 27/09/2022 03:05:02 UTC*
 <!--END_SECTION:waka-->
