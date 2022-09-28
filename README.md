@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,10 +69,12 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming languages: 
-No activity tracked this week
+Python                   10 mins             █████████████████████████   99.73% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 📝 Editors: 
-No activity tracked this week
+PyCharm                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -93,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 27/09/2022 13:15:37 UTC*
+ *Updated on 28/09/2022 03:11:29 UTC*
 <!--END_SECTION:waka-->
