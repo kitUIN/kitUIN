@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 🏆 257 Contributions in the year 2022
  > 
-> 📦 78.6 kB Used in GitHub's storage 
+> 📦 78.5 kB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,14 +69,10 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming languages: 
-Python                   36 mins             ████████████████████░░░░░   80.43% 
-TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+No activity tracked this week
 
 📝 Editors: 
-VS Code                  37 mins             ████████████████████░░░░░   82.58% 
-PyCharm                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.42%
+No activity tracked this week
 
 ```
 
@@ -97,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 25/10/2022 13:18:48 UTC*
+ *Updated on 26/10/2022 02:43:10 UTC*
 <!--END_SECTION:waka-->
