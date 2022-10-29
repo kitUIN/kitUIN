@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 🏆 260 Contributions in the year 2022
  > 
-> 📦 78.5 kB Used in GitHub's storage 
+> 📦 78.6 kB Used in GitHub's storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 29/10/2022 02:33:19 UTC*
+ *Updated on 29/10/2022 12:57:45 UTC*
 <!--END_SECTION:waka-->
