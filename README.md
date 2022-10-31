@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -98,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- *Updated on 31/10/2022 02:52:02 UTC*
+ *Updated on 31/10/2022 13:08:41 UTC*
 <!--END_SECTION:waka-->
