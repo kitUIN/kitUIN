@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2023
+> 🏆 112 Contributions in the Year 2023
  > 
 > 📦 83.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -73,15 +73,15 @@ Sunday          55 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 56 mins       █████████████████░░░░░░░░   67.90 % 
-Groovy                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Properties               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Gradle                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Java                     8 hrs 15 mins       █████████████████████░░░░   85.72 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Properties               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs 3 mins        ████████████████████████░   97.19 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+IntelliJ                 9 hrs 13 mins       ████████████████████████░   95.78 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 ```
 
@@ -102,5 +102,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kitUIN/kitUIN/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 12:49:59 UTC
+ Last Updated on 17/02/2023 02:02:24 UTC
 <!--END_SECTION:waka-->
