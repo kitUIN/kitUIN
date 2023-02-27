@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,5 +101,5 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 01:57:25 UTC
+ Last Updated on 27/02/2023 12:50:01 UTC
 <!--END_SECTION:waka-->
