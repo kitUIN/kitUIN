@@ -30,16 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%209%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2023 05:40:23 UTC
+ Last Updated on 03/03/2023 05:43:21 UTC
 <!--END_SECTION:waka-->
