@@ -30,41 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 613.4 kB Used in GitHub's Storage 
- > 
-> 🏆 125 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-🌆 Daytime                181 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                323 commits         ██████████████░░░░░░░░░░░   54.56 % 
-🌙 Night                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   7 hrs 59 mins       █████████████████░░░░░░░░   67.85 % 
-C++                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 **Timeline**
@@ -72,5 +41,5 @@ JavaScript               13 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2023 05:36:35 UTC
+ Last Updated on 03/03/2023 05:40:23 UTC
 <!--END_SECTION:waka-->
