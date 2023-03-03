@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![statu](https://github-readme-stats.kituin.fun/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin)](https://github.com/anuraghazra/github-readme-stats)  
+[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <!--START_SECTION:waka-->
