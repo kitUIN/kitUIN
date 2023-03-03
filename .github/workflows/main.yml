@@ -25,3 +25,4 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
