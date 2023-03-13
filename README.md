@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 [![counter](https://count.getloli.com/get/@KitUIN?theme=rule34)](https://count.getloli.com/)
 
-[![Top Langs](https://github-readme-stats.kituin.fun/api/top-langs/?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![statu](https://github-readme-stats.kituin.fun/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
+[![statu](https://github-readme-stats.vercel.app/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)  
 
