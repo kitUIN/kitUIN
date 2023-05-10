@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">您好👋</h1>
-<h2 align="center">一只摸鱼的鸽子，偶尔写写代码~咕咕咕</h2>
+<h2 align="center">一只摸鱼的鸽子，偶尔去海滩偷吃薯条~咕咕咕</h2>
 <h3 align="center">有事情请发邮件</h3>
 
 [![counter](https://count.getloli.com/get/@KitUIN?theme=rule34)](https://count.getloli.com/)
