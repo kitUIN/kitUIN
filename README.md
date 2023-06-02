@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 [![statu](https://github-readme-stats.kituin.fun/api?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin&langs_count=8&layout=compact)](https://wakatime.com/@kitUIN)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2024%20mins-blue)
+[![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2024%20mins-blue)](https://wakatime.com/@kitUIN)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.4%20thousand%20lines%20of%20code-blue)
+[![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.4%20thousand%20lines%20of%20code-blue)](https://wakatime.com/@kitUIN)
 
 **Timeline**
 
