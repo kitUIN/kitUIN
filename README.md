@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.kituin.fun/api/wakatime?username=kituin&langs_count=8&layout=compact&hide=Other,Binary,JSON,Markdown)](https://wakatime.com/@kitUIN)
 
+[![wakatime](https://wakatime.com/badge/user/3b5608c7-e0b6-44a2-a217-cad786040b48.svg)](https://wakatime.com/@3b5608c7-e0b6-44a2-a217-cad786040b48)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-795.1%20thousand%20lines%20of%20code-blue)
