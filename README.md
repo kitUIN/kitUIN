@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/3b5608c7-e0b6-44a2-a217-cad786040b48.svg)](https://wakatime.com/@3b5608c7-e0b6-44a2-a217-cad786040b48)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-795.1%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-795.1%20thousand%20lines%20of%20code-blue)
 
-**时间线**
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-04-03 14:31:20 UTC
+ Last Updated on 2024-04-03 14:36:13 UTC
 <!--END_SECTION:waka-->
