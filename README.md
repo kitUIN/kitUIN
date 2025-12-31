@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">一只摸鱼的鸽子，偶尔去海滩偷吃薯条~咕咕咕</h2>
 <h3 align="center">有事情请发邮件</h3>
 
-[![counter](https://count.getloli.com/get/@KitUIN?theme=rule34)](https://count.getloli.com/)
+[![counter](https://count.getloli.com/@KitUIN?name=KitUIN&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)](https://count.getloli.com/)
 
 [![Top Langs](https://github-readme-stats.kituin.fun/api/top-langs/?username=kitUIN&show_icons=true&theme=gruvbox&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
