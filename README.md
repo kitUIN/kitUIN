@@ -29,31 +29,31 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/3b5608c7-e0b6-44a2-a217-cad786040b48.svg)](https://wakatime.com/@3b5608c7-e0b6-44a2-a217-cad786040b48)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-439%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (48.23%)
+⏱ AI Coding Time: 11 hrs 11 mins (52.91%)
 
-✍️ 4,005 lines written by AI, 4,295 lines written by hand (48.25% AI-written)
+✍️ 6,230 lines written by AI, 3,021 lines written by hand (67.34% AI-written)
 
-🔤 6,121,557 Input Tokens, 605,790 Output Tokens
+🔤 6,622,585 Input Tokens, 661,245 Output Tokens
 
-💵 $133.44 Estimated AI Cost This Week
+💵 $144.80 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 103 AI Prompts
+🧠 70 AI Sessions, 115 AI Prompts
 
-GPT                      3,992 lines         ███████████████████████░░   92.30 % 
-Codex-Vscode             333 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+GPT                      6,252 lines         ████████████████████████░   94.94 % 
+Codex-Vscode             333 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.25% of written lines came from AI
-📚 Verbose Prompter — average 5,234 characters per prompt
+🤖 AI-Driven — 67.34% of written lines came from AI
+📚 Verbose Prompter — average 4,579 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.14% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -61,5 +61,5 @@ Codex-Vscode             333 lines           ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-21 18:19:08 UTC
+ Last Updated on 2026-09-22 04:56:08 UTC
 <!--END_SECTION:waka-->
