@@ -29,31 +29,31 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/3b5608c7-e0b6-44a2-a217-cad786040b48.svg)](https://wakatime.com/@3b5608c7-e0b6-44a2-a217-cad786040b48)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.78%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (61.08%)
+⏱ AI Coding Time: 12 hrs 10 mins (67.42%)
 
-✍️ 5,457 lines written by AI, 651 lines written by hand (89.34% AI-written)
+✍️ 6,790 lines written by AI, 491 lines written by hand (93.26% AI-written)
 
-🔤 4,821,753 Input Tokens, 513,852 Output Tokens
+🔤 4,767,091 Input Tokens, 557,985 Output Tokens
 
-💵 $177.87 Estimated AI Cost This Week
+💵 $201.29 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 130 AI Prompts
+🧠 64 AI Sessions, 128 AI Prompts
 
-GPT                      4,871 lines         ██████████████████████░░░   88.12 % 
-Codex-Vscode             657 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+GPT                      5,400 lines         ████████████████████░░░░░   78.86 % 
+Codex-Vscode             1,448 lines         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.34% of written lines came from AI
-📚 Verbose Prompter — average 3,346 characters per prompt
+🤖 AI-Driven — 93.26% of written lines came from AI
+📚 Verbose Prompter — average 3,046 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.04% of changed lines were hand-edited
+🚀 High AI Trust — 8.62% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -61,5 +61,5 @@ Codex-Vscode             657 lines           ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-25 17:13:24 UTC
+ Last Updated on 2026-09-26 04:58:50 UTC
 <!--END_SECTION:waka-->
