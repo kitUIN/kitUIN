@@ -29,31 +29,32 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/3b5608c7-e0b6-44a2-a217-cad786040b48.svg)](https://wakatime.com/@3b5608c7-e0b6-44a2-a217-cad786040b48)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-462%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.72%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 47 mins (81.0%)
+⏱ AI Coding Time: 7 hrs 17 mins (75.55%)
 
-✍️ 6,603 lines written by AI, 677 lines written by hand (90.7% AI-written)
+✍️ 3,899 lines written by AI, 686 lines written by hand (85.04% AI-written)
 
-🔤 3,389,180 Input Tokens, 473,767 Output Tokens
+🔤 5,239,899 Input Tokens, 393,043 Output Tokens
 
-💵 $130.85 Estimated AI Cost This Week
+💵 $78.76 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 98 AI Prompts
+🧠 30 AI Sessions, 76 AI Prompts
 
-GPT                      6,712 lines         █████████████████████████   100.00 % 
+GPT                      3,947 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.7% of written lines came from AI
-📚 Verbose Prompter — average 2,029 characters per prompt
+🤖 AI-Driven — 85.04% of written lines came from AI
+📚 Verbose Prompter — average 1,861 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.52% of changed lines were hand-edited
+🚀 High AI Trust — 15.39% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -61,5 +62,5 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-05 05:38:26 UTC
+ Last Updated on 2026-10-06 06:20:27 UTC
 <!--END_SECTION:waka-->
