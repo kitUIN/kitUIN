@@ -36,25 +36,25 @@ Here are some ideas to get you started:
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 17 mins (75.55%)
+⏱ AI Coding Time: 3 hrs 3 mins (82.78%)
 
-✍️ 3,899 lines written by AI, 686 lines written by hand (85.04% AI-written)
+✍️ 1,125 lines written by AI, 257 lines written by hand (81.4% AI-written)
 
-🔤 5,239,899 Input Tokens, 393,043 Output Tokens
+🔤 3,904,105 Input Tokens, 208,537 Output Tokens
 
-💵 $78.76 Estimated AI Cost This Week
+💵 $31.33 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 76 AI Prompts
+🧠 12 AI Sessions, 36 AI Prompts
 
-GPT                      3,947 lines         █████████████████████████   100.00 % 
+GPT                      1,145 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.04% of written lines came from AI
-📚 Verbose Prompter — average 1,861 characters per prompt
+🤖 AI-Driven — 81.4% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.39% of changed lines were hand-edited
+🚀 High AI Trust — 18.85% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -62,5 +62,5 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kitUIN/kitUIN/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-06 18:27:12 UTC
+ Last Updated on 2026-10-07 06:00:17 UTC
 <!--END_SECTION:waka-->
